@@ -18,7 +18,7 @@
 
 ## :rocket: Technologies
 
-In this project we used `Node.js` to build a Rest API using `Express`, `Nodemon`, `Sequelize` and the `MySQL` database.
+In this project `Node.js` was used to build a Rest API using `Express`, `Nodemon`, `Sequelize` and the `MySQL` database.
 
 
 ## 💻 Project
