@@ -31,4 +31,4 @@ This is a study project on how to develop an API in Node.js with Sequelize, Expr
 1. Clone this repository using: `git@github.com:Henry001-prog/node-api-mysql.git`
 2. Enter in the project directory: `cd node-api-mysql`
 3. Install all dependencies running in terminal: `yarn`
-6. Run `yarn start` in another terminal or in the terminal of the code editor you use to run the project
+6. Run `yarn run dev` in another terminal or in the terminal of the code editor you use to run the project
