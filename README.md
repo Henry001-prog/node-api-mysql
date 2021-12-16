@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##electric_plug-getting-started">Getting started</a>
+  <a href="#electric_plug-getting-started">Getting started</a>
 </p>
 
 <br>
